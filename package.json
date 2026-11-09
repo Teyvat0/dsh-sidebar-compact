@@ -4,6 +4,10 @@
   "private": true,
   "type": "module",
   "description": "Compact, collapse-friendly left sidebar for the DeepSeek Harness Web UI.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Teyvat0/dsh-sidebar-compact.git"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
