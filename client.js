@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: 'dsh-sidebar-compact',
+  id: '@teyvat0/dsh-sidebar-compact',
   factory(require) {
     const React = require('react');
     const h = React.createElement;
@@ -499,7 +499,7 @@ window.__ModuleLoader__.load({
 
         use(() => {
           const tag = document.createElement('style');
-          tag.setAttribute('data-plugin', 'dsh-sidebar-compact');
+          tag.setAttribute('data-plugin', '@teyvat0/dsh-sidebar-compact');
           tag.textContent = CSS;
           document.head.appendChild(tag);
           return () => tag.remove();

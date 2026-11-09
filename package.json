@@ -1,11 +1,14 @@
 {
-  "name": "dsh-sidebar-compact",
+  "name": "@teyvat0/dsh-sidebar-compact",
   "version": "1.0.5",
-  "private": true,
   "type": "module",
   "description": "Compact, collapse-friendly left sidebar for the DeepSeek Harness Web UI.",
   "license": "MIT",
   "author": "Teyvat0",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "dsh-plugin",
     "deepseek-harness",
