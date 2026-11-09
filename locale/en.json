@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sidebar Compact",
+    "description": "Adds a collapse/expand control and a compact mode to the left sidebar: tighter rows and spacing plus a narrower column, so the workspace gets more room."
+  }
+}
