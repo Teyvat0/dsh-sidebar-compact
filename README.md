@@ -2,7 +2,7 @@
 
 给 DeepSeek Harness 的左侧栏加一个可收起的紧凑模式：侧栏变窄、行距收紧，面板列表能折成一排图标，把被侧栏占掉的工作区空间还回来。
 
-![效果截图](assets/icon-360.png)
+<p align="center"><img src="assets/icon-180.png" width="88" alt="图标"></p>
 
 ## 安装
 
